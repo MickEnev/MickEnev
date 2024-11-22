@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Mick Enev
+📍 Plainfield, IL | 📧 mickenev@gmail.com | [LinkedIn](https://www.linkedin.com/in/mick-enev-b77743247/)
 <!--
 **YungBulgaria/YungBulgaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+I am an MCS student at the University of Illinois Urbana-Champaign. Through my minor in computer science during my undergrad here at UIUC and my master's program experience, I have worked on many Python, Java, and JavaScript apps some of which are showcased here. 
+I enjoy doing Full Stack development and my languages of choice are Python, C++, and JavaScript. I am also keen for database development and I enjoy using SQL but am also well versed in MongoDB and Neo4j. I am eager to learn and I strive every day to be a better version of myself. My goal is to become the best programmer that I can be.
+> "Every man has two lives, and the second starts when he realizes he has just one." - Confucius
+
+## Skills
+- **Languages:** Python, C++, SQL, JavaScript, HTML/CSS, MongoDB
+- **Frameworks:** D3, Flask, Pandas, Dash
+- **Tools:** Git, GitHub, Docker, VSCode, Unreal Engine 5
+
+## Projects
+- [Narrative Visualization](YungBulgaria.github.io) - A narrative visualization writtin in JavaScript using the D3 library.
+- [Database Dashboard](https://github.com/YungBulgaria/Mick_Marcos_411) - A database dashboard that supported querying across 3 different databases in MySQL, MongoDB, and Neo4j which allowed the user to edit the databases and see graphs based on queries.
+- [Weightlifting App](https://github.com/YungBulgaria/WeightliftingApp) - A work in progress of a tracker app that lets users log their workouts and stores the data in an SQL database which is accessed with MySQL Connector.
+- [Tower Defense Game](https://drive.google.com/file/d/12nkk7TtX-BSvycx__5RHsbysaMhi97vE/view?usp=sharing) - A demo of the tower defense game my team and I built in Unreal Engine 5. The game is complete with multiple levels and a high schore system. 
