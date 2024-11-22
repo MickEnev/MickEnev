@@ -25,7 +25,7 @@ I enjoy Full Stack development and my languages of choice are Python, C++, and J
 - **Tools:** Git, GitHub, Docker, VSCode, Unreal Engine 5
 
 ## Projects
-- [Narrative Visualization](YungBulgaria.github.io) - A narrative visualization writtin in JavaScript using the D3 library.
+- [Narrative Visualization](https://yungbulgaria.github.io/) - A narrative visualization writtin in JavaScript using the D3 library.
 - [Database Dashboard](https://github.com/YungBulgaria/Mick_Marcos_411) - A database dashboard that supported querying across 3 different databases in MySQL, MongoDB, and Neo4j which allowed the user to edit the databases and see graphs based on queries.
 - [Weightlifting App](https://github.com/YungBulgaria/WeightliftingApp) - A work in progress of a tracker app that lets users log their workouts and stores the data in an SQL database which is accessed with MySQL Connector.
 - [Tower Defense Game](https://drive.google.com/file/d/12nkk7TtX-BSvycx__5RHsbysaMhi97vE/view?usp=sharing) - A demo of the tower defense game my team and I built in Unreal Engine 5. The game is complete with multiple levels and a high schore system. 
