@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## About Me
 I am an MCS student at the University of Illinois Urbana-Champaign. Through my minor in computer science during my undergrad here at UIUC and my master's program experience, I have worked on many Python, Java, and JavaScript apps some of which are showcased here. 
-I enjoy doing Full Stack development and my languages of choice are Python, C++, and JavaScript. I am also keen for database development and I enjoy using SQL but am also well versed in MongoDB and Neo4j. I am eager to learn and I strive every day to be a better version of myself. My goal is to become the best programmer that I can be.
+I enjoy Full Stack development and my languages of choice are Python, C++, and JavaScript. I am also keen for database development and I enjoy using SQL but am also well versed in MongoDB and Neo4j. I am eager to learn and I strive every day to be a better version of myself. My goal is to become the best programmer that I can be.
 > "Every man has two lives, and the second starts when he realizes he has just one." - Confucius
 
 ## Skills
