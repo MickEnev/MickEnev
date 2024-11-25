@@ -25,7 +25,7 @@ I enjoy Full Stack development and my languages of choice are Python, C++, and J
 - **Tools:** Git, GitHub, Docker, VSCode, Unreal Engine 5
 
 ## Projects
-- [Interpreter](https://github.com/YungBulgaria/FirstGoInterpreter) - I am currently working on an interpreter written in Go. As of now I have the lexer functioning.
+- [Interpreter](https://github.com/YungBulgaria/FirstGoInterpreter) - I am currently working on an interpreter written in Go. As of now I have the tokenizer, lexer, and the parser for statements functioning. Currently working on parsing expressions.
 - [Narrative Visualization](https://yungbulgaria.github.io/) - A narrative visualization writtin in JavaScript using the D3 library.
 - [Database Dashboard](https://github.com/YungBulgaria/Mick_Marcos_411) - A database dashboard that supported querying across 3 different databases in MySQL, MongoDB, and Neo4j which allowed the user to edit the databases and see graphs based on queries.
 - [Weightlifting App](https://github.com/YungBulgaria/WeightliftingApp) - A work in progress of a tracker app that lets users log their workouts and stores the data in an SQL database which is accessed with MySQL Connector.
