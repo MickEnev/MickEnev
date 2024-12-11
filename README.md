@@ -1,5 +1,5 @@
 ## Mick Enev
-📍 Plainfield, IL | 📧 mickenev@gmail.com | [LinkedIn](https://www.linkedin.com/in/mick-enev-b77743247/) | [Portfolio](https://mickenev.netlify.app/)
+📍 Plainfield, IL | 📧 mickenev@gmail.com | [LinkedIn](https://www.linkedin.com/in/mick-enev-b77743247/) | [Portfolio](https://mickenev.com/)
 <!--
 **YungBulgaria/YungBulgaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
