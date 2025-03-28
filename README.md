@@ -21,7 +21,7 @@ I enjoy Full Stack development and my languages of choice are Python, C++, and J
 
 ## Skills
 - **Languages:** Python, C++, SQL, JavaScript, HTML/CSS, MongoDB
-- **Frameworks:** D3, Flask, Pandas, Dash
+- **Frameworks:** React, D3, Flask, Pandas, Dash
 - **Tools:** Git, GitHub, Docker, VSCode, Unreal Engine 5
 
 ## Projects
