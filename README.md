@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I am an MCS student at the University of Illinois Urbana-Champaign. Through my minor in computer science during my undergrad here at UIUC and my master's program experience, I have worked on many Python, Java, and JavaScript apps some of which are showcased here. 
+I am a software engineer and a UIUC alum. I went to UIUC for both my undergrad in economics (with a minor in CS) and masters in CS. I have worked on many Python, C++, Java, and JavaScript projects some of which are showcased here. 
 I enjoy Full Stack development and my languages of choice are Python, C++, and JavaScript. I am also keen for database development and I enjoy using SQL but am also well versed in MongoDB and Neo4j. I am eager to learn and I strive every day to be a better version of myself. My goal is to become the best programmer that I can be.
 > "Every man has two lives, and the second starts when he realizes he has just one." - Confucius
 
 ## Skills
-- **Languages:** Python, C++, SQL, JavaScript, HTML/CSS, MongoDB
+- **Languages:** Python, C++, SQL, JavaScript, VB.NET, HTML/CSS, MongoDB
 - **Frameworks:** React, D3, Flask, Pandas, Dash
 - **Tools:** Git, GitHub, Docker, VSCode, Unreal Engine 5
 
 ## Projects
 - [Database Dashboard](https://github.com/YungBulgaria/Mick_Marcos_411) - A database dashboard that supported querying across 3 different databases in MySQL, MongoDB, and Neo4j which allowed the user to edit the databases and see graphs based on queries.
+- [CHIP-8 Emulator](https://github.com/MickEnev/CHIP-8-Emulator) - A fully functioning CHIP-8 emulator built to get a better understanding of how processors work.
 - [Tower Defense Game](https://drive.google.com/file/d/12nkk7TtX-BSvycx__5RHsbysaMhi97vE/view?usp=sharing) - A demo of the tower defense game my team and I built in Unreal Engine 5. The game is complete with multiple levels and a high schore system.
 - [AI Resume Analyzer](https://github.com/MickEnev/resume-analyzer) - An app that parses your resume and uses AI to give you relevant feedback on your fit for a certain job and how you can improve your chances of getting hired.
 - [PomoTomo](https://github.com/user-attachments/assets/b623d3ee-6986-44b1-b7e5-d87c75199cb7) - A Pomodoro timer with a Todo list built in aimed at maximizing focus and productivity.
