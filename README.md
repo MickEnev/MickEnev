@@ -1,38 +1,127 @@
-## Mick Enev
-📍 Plainfield, IL | 📧 mickenev@gmail.com | [LinkedIn](https://www.linkedin.com/in/mickenev/) | [Portfolio](https://mickenev.com/)
-<!--
-**YungBulgaria/YungBulgaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mick 👋
 
-Here are some ideas to get you started:
+**Software Engineer | Full-Stack Developer | UIUC MCS Graduate**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Plainfield, IL  
+📧 mickenev@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/mickenev/)  
+🌐 [Portfolio](https://mickenev.com)
+
+---
+
 ## About Me
-I am a software engineer and a UIUC alum. I went to UIUC for both my undergrad in economics (with a minor in CS) and masters in CS. I have worked on many Python, C++, Java, and JavaScript projects some of which are showcased here. 
-I enjoy Full Stack development and my languages of choice are Python, C++, and JavaScript. I am also keen for database development and I enjoy using SQL but am also well versed in MongoDB and Neo4j. I am eager to learn and I strive every day to be a better version of myself. My goal is to become the best programmer that I can be.
-> "Every man has two lives, and the second starts when he realizes he has just one." - Confucius
 
-## Skills
-- **Languages:** Python, C++, SQL, JavaScript, VB.NET, HTML/CSS, MongoDB
-- **Frameworks:** React, D3, Flask, Pandas, Dash
-- **Tools:** Git, GitHub, Docker, VSCode, Unreal Engine 5
+I'm a software engineer with a Master's in Computer Science from the University of Illinois Urbana-Champaign.
 
-## Projects
-- [Database Dashboard](https://github.com/YungBulgaria/Mick_Marcos_411) - A database dashboard that supported querying across 3 different databases in MySQL, MongoDB, and Neo4j which allowed the user to edit the databases and see graphs based on queries.
-- [CHIP-8 Emulator](https://github.com/MickEnev/CHIP-8-Emulator) - A fully functioning CHIP-8 emulator built to get a better understanding of how processors work.
-- [Tower Defense Game](https://drive.google.com/file/d/12nkk7TtX-BSvycx__5RHsbysaMhi97vE/view?usp=sharing) - A demo of the tower defense game my team and I built in Unreal Engine 5. The game is complete with multiple levels and a high schore system.
-- [AI Resume Analyzer](https://github.com/MickEnev/resume-analyzer) - An app that parses your resume and uses AI to give you relevant feedback on your fit for a certain job and how you can improve your chances of getting hired.
-- [PomoTomo](https://github.com/user-attachments/assets/b623d3ee-6986-44b1-b7e5-d87c75199cb7) - A Pomodoro timer with a Todo list built in aimed at maximizing focus and productivity.
-- [Lord of The Rings App](https://github.com/MickEnev/lotr-app) - My first React app that uses "The One Api" to fetch data related to The Lord of The Rings characters, movies, and books.
-- [Pokemon App](https://github.com/MickEnev/pokemon-app) - My second React app that uses the Pokemon Api to fetch data related to Pokemon.
-- [Movie App](https://github.com/MickEnev/movie-app) - My third React app that uses a movie api to display movies and allow users to create a list of favorites.
-- [Weightlifting App](https://github.com/YungBulgaria/WeightliftingApp) - A work in progress of a tracker app that lets users log their workouts and stores the data in an SQL database which is accessed with MySQL Connector.
-- [Narrative Visualization](https://mickenev.github.io/) - A narrative visualization writtin in JavaScript using the D3 library.
+I enjoy building clean, responsive, and scalable applications with modern technologies. Recently I've been focusing on full-stack web development using **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, while continuing to strengthen my backend and systems programming skills.
 
+I'm always looking for opportunities to improve as an engineer by building challenging projects and learning new technologies.
+
+---
+
+## Tech Stack
+
+### Languages
+
+- TypeScript
+- JavaScript
+- Python
+- C++
+- SQL
+- Java
+- C#
+- VB.NET
+- HTML / CSS
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Flask
+- REST APIs
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Neo4j
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Vercel
+- VS Code
+
+---
+
+# Featured Projects
+
+## 🏋️ Iron Palace
+
+A modern, responsive gym website built with Next.js and Tailwind CSS.
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS
+
+🔗 Live Demo: https://iron-palace-henna.vercel.app/
+
+https://github.com/MickEnev/iron-palace
+
+---
+
+## 💻 CHIP-8 Emulator
+
+A complete CHIP-8 emulator written in C++ to better understand CPU architecture, graphics rendering, memory management, and instruction execution.
+
+https://github.com/MickEnev/CHIP-8-Emulator
+
+---
+
+## 🗄️ Multi-Database Dashboard
+
+A dashboard capable of querying and visualizing data across MySQL, MongoDB, and Neo4j from a single interface.
+
+https://github.com/YungBulgaria/Mick_Marcos_411
+
+---
+
+## 🎮 Tower Defense Game
+
+A multiplayer tower defense game built in Unreal Engine 5.
+
+Gameplay Demo:
+
+https://drive.google.com/file/d/12nkk7TtX-BSvycx__5RHsbysaMhi97vE/view?usp=sharing
+
+---
+
+## Other Projects
+
+- Movie App
+- Pokémon App
+- Lord of the Rings App
+- PomoTomo Productivity App
+- Narrative Visualization (D3.js)
+- Weightlifting Tracker
+
+---
+
+## Currently Learning
+
+- Advanced Next.js
+- Authentication & Authorization
+- PostgreSQL
+- Stripe Payments
+- Full-stack architecture
+- Web performance & SEO
+
+---
+
+Thanks for stopping by!
