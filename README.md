@@ -72,7 +72,7 @@ A modern, responsive gym website built with Next.js and Tailwind CSS.
 
 🔗 Live Demo: https://iron-palace-henna.vercel.app/
 
-https://github.com/MickEnev/iron-palace
+https://github.com/VeriqDigital/iron-palace
 
 ---
 
